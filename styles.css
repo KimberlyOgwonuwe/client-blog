@@ -1,0 +1,43 @@
+body {
+    background: url(images/yasmina4.jpg) no-repeat center center fixed; 
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-color: transparent;
+}
+/*typography*/
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+.class1{
+    text-align: right;
+    color: black;
+    
+
+}
+p{
+    font-family:Open+Sans,Raleway;
+    font-size: 30px;
+    color: black;
+}
+.submit {
+    border: 1px solid black;
+    font-family: Open+sans-serif;
+    color: black;
+    margin-top: 10px;
+    padding: 10px 
+
+}
+
+img class{ 
+    border-radius: 50%;
+    float: initial;
+    padding: 20px;
+    align-self: auto;
+ }
+                
